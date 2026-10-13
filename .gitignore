@@ -1,0 +1,15 @@
+# ROMs and anything derived from them must never be committed
+wjammers/
+roms/
+*.zip
+*.p1
+*.c[1-8]
+*.s1
+*.m1
+*.v[1-8]
+*.rom
+build/
+windjammers.bin
+# local toolchain / emulators fetched by tools/setup_toolchain.sh
+.toolchain/
+__pycache__/

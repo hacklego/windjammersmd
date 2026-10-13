@@ -131,5 +131,10 @@ character: "S.MILLER" in its ROM is a name in the staff credits.)
 bleed; add about 3 mm per side if the print shop needs it, and check the spine of your case. The
 back's screenshots (also in `docs/screenshots/`) are frames of this port running in an emulator.
 
+## Credits
+
+- Front cover art of the insert: [Zanac](https://x.com/zanac_dx) ([@zanac_dx](https://x.com/zanac_dx)).
+- Port engine, build tools and insert layout made with [Claude](https://claude.ai) (Anthropic) via Claude Code.
+
 This is an unofficial fan project, not affiliated with SEGA or Data East. Windjammers © 1994 Data East
 Corporation; Sega and Mega Drive are trademarks of SEGA Corporation.
